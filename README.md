@@ -1,2 +1,1 @@
-# react
-react
+# 개인과제

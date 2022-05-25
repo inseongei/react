@@ -1,0 +1,46 @@
+.box{
+    max-Width: 350px;
+    width: 80vw;
+    height: 90vh;
+    margin: 5vh auto;
+    padding: 5vh 5vw;
+    border: 1px solid #ddd;
+    box-Sizing: border-box;
+    border-Radius: 5px;
+}
+
+.box > h3 {
+    text-align: center;
+}
+
+.days{
+    color: #fff;
+    font-weight: 900;
+    background-color: orange;
+    padding: 0.2rem;
+    border-Radius: 5px;
+}
+
+.one{
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+    margin: 1rem 0;
+    width: 100%;
+}
+
+.circle{
+    width: 30px;
+    height: 30px;
+    border-Radius: 30px;
+    margin: 5px;
+}
+
+.btn-style{
+    width: 100%;
+    background-Color: purple;
+    border: none;
+    border-Radius: 5px;
+    padding: 1rem;
+    color: #fff;
+}
